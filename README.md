@@ -2,7 +2,7 @@ Jane Doe - Simple Single Page Portfolio Website
 
 Overview
 
-This project is a personal portfolio website for "Remy Martin," designed to showcase Remy's skills, experience, and projects as a full-stack developer. The website consists of several sections, including "About Me," "Skills," "Projects," and "Recommendations." It is built using HTML, CSS, and JavaScript, and provides users with a responsive and interactive experience.
+This project is a personal portfolio website for "Remy Martin," designed to showcase Remy's skills, experience, and projects as a full-stack developer. The website consists of several sections, including "About Me," "Skills," "Projects," and "Recommendations." It is built using HTML, CSS, and JavaScript, providing users a responsive and interactive experience.
 
 Additionally, the website includes a feature where visitors can leave recommendations via a form, which gets dynamically added to the page along with a pop-up confirmation.
 
@@ -17,7 +17,7 @@ Table of Contents
 7. [Future Enhancements](#future-enhancements)
 8. [Credits](#credits)
 
-Features
+## Features
 
 - Responsive Design: The website is designed to be responsive and adjusts to different screen sizes.
 - About Me Section: Introduction to the developer, Remy Martin, highlighting their skills and experience.
@@ -65,8 +65,8 @@ Setup Instructions
 1. Clone the repository:
 
    ```
-   git clone https://github.com/username/portfolio-website.git
-   cd portfolio-website
+   git clone https://github.com/username/Single-Web-Page-Profile.git
+   cd Single-Web-Page-Profile
    ```
 
 2. Open the website:
