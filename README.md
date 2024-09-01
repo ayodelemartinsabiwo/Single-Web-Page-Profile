@@ -1,4 +1,4 @@
-# Jane Doe - Portfolio Website
+# Simple Single Page Portfolio Website
 
 ## Overview
 
