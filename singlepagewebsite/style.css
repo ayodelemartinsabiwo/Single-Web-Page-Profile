@@ -30,7 +30,7 @@ body {
   transform: scale(1.03);
   transform-origin: center;
   text-underline-offset: 8px;
-  /* Add the styles here */
+
 }
 
 .topdiv {
@@ -43,7 +43,7 @@ body {
   padding-left: 2cm;
   color: lightblue;
   font-size: 30px
-  /* Add the styles here */
+
 }
 
 .profile_name .contact_info {
@@ -326,7 +326,6 @@ h2 {
   transform: translate(-50%,-50%);
   text-align: center;
   position: fixed;
-  /* padding: 30px; */
   visibility: hidden;
 }
 
