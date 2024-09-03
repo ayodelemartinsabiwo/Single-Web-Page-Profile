@@ -140,11 +140,68 @@ h2 {
   border-top-right-radius: 15px;
   border-top-width: 6px;
   border-top-color: #9b5bc0;
+  transition-duration: 0.5s;
 }
+
+.skill:hover {
+  cursor: pointer;
+  transform: scale(1.03);
+  transition-duration: 0.3s;
+}
+
+.skill:nth-child(1):hover {
+  border: solid 2px rgba(255, 68, 0, 0.2);
+  border-top-right-radius: 15px;
+  border-top-width: 6px;
+  border-top-color: orangered;
+}
+
+.skill:nth-child(2):hover {
+  border: solid 2px rgba(222, 187, 13, 0.2);
+  border-top-right-radius: 15px;
+  border-top-width: 6px;
+  border-top-color: rgb(222, 187, 13);
+}
+
+.skill:nth-child(3):hover {
+  border: solid 2px rgba(77, 89, 223, 0.2);
+  border-top-right-radius: 15px;
+  border-top-width: 6px;
+  border-top-color: rgb(77, 89, 223);
+}
+
+.skill:nth-child(4):hover {
+  border: solid 2px rgb(73, 117, 205, 0.2) ;
+  border-top-right-radius: 15px;
+  border-top-width: 6px;
+  border-top-color: rgba(255, 68, 0 );
+}
+
+.skill:nth-child(5):hover {
+  border: solid 2px rgb(88, 184, 213, 0.2) ;
+  border-top-right-radius: 15px;
+  border-top-width: 6px;
+  border-top-color: rgb(88, 184, 213);
+}
+
+/* .skill:nth-child(odd):hover {
+  border: solid 2px rgb(88, 184, 213, 0.2) ;
+  border-top-right-radius: 15px;
+  border-top-width: 6px;
+  border-top-color: rgb(88, 184, 213);
+}
+
+.skill:nth-child(even):hover {
+  border: solid 2px rgb(88, 184, 213, 0.2) ;
+  border-top-right-radius: 15px;
+  border-top-width: 6px;
+  border-top-color: rgb(88, 213, 94);
+} */
 
 .skill img {
   height: 35px;
   align-items: center;
+
 }
 
 .skills h6 {
@@ -208,6 +265,15 @@ h2 {
   padding: 20px;
 }
 
+.recommendation:hover {
+  border: solid 2px rgba(195, 195, 195, 0.2);
+  border-top-right-radius: 15px;
+  border-top-width: 6px;
+  border-top-color: rgb(222, 222, 222);
+  transform: scale(1.02);
+  transition-duration: 0.s;
+}
+
 .recommendation {
   font-style: italic;
   text-align: left;
@@ -224,6 +290,7 @@ h2 {
   border-top-right-radius: 15px;
   border-top-width: 6px;
   border-top-color: #a8a8a8;
+  transition-duration: 0.9s;
 }
 
 .recommendation span {
